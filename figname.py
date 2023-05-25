@@ -1,4 +1,6 @@
+print ("pip install pyfiglet")
 import os
+
 
 import pyfiglet
 
