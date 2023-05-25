@@ -1,7 +1,7 @@
-os .system ("pip install pyfiglet")
+
 import os
 
-
+os .system ("pip install pyfiglet")
 import pyfiglet
 
 Z = '\033[1;31m' #احمر
