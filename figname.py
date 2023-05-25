@@ -1,4 +1,4 @@
-print ("pip install pyfiglet")
+os .system ("pip install pyfiglet")
 import os
 
 
